@@ -1,0 +1,13 @@
+количество позиций: 5
+телевизоры:
+- samsung
+- lg
+- sony
+- philips
+- atlant
+цена:
+  atlant: 30000₽
+  lg: 45000₽
+  philips: 47000₽
+  samsung: 50000₽
+  sony: 40000₽
