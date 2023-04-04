@@ -27,6 +27,7 @@ class Matrix:
 
     def __str__(self):
         return str('\n'.join(['\t'.join([str(j) for j in i]) for i in matr]))
+    
 
 
 my_matrix = Matrix([[5, 18, 11],
